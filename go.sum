@@ -1,0 +1,4 @@
+github.com/Binject/debug v0.0.0-20230508195519-26db73212a7a h1:4c0nc0krv8eh7gD809n+swLaCuFyHpxdrxwx0ZmHvBw=
+github.com/Binject/debug v0.0.0-20230508195519-26db73212a7a/go.mod h1:QzgxDLY/qdKlvnbnb65eqTedhvQPbaSP2NqIbcuKvsQ=
+golang.org/x/sys v0.14.0 h1:Vz7Qs629MkJkGyHxUlRHizWJRG2j8fbQKjELVSNhy7Q=
+golang.org/x/sys v0.14.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
